@@ -1,28 +1,39 @@
-# 👋 Hi, I'm Gehan Fernando
+<h1 align="left">Hey 👋 I'm Gehan Fernando</h1>
 
-### Senior Software Engineer | Backend & Microservices | .NET, C#, Python | Azure Cloud & DevOps
+###
 
-I’m a software engineer with **20+ years of experience** designing and building scalable, high-performance software. I enjoy turning complex business challenges into reliable, secure, and maintainable solutions.
+<p align="left">I'm a Senior Software Engineer with 20+ years of experience, based in Sweden.</p>
 
-My work spans **backend engineering, cloud architecture, distributed systems, and microservices**. I’ve led projects from early requirements and system design through development, deployment, and optimization, while supporting engineering teams through technical leadership and mentorship.
+###
 
-## 🛠️ What I work with
+<h2 align="left">About me</h2>
 
-- **Languages & frameworks:** .NET / .NET Core, C#, Python, ASP.NET, Flask
-- **Cloud & delivery:** Microsoft Azure, CI/CD, DevOps automation
-- **Architecture:** Microservices, distributed systems, REST APIs, scalable system design
-- **Data:** SQL Server, MongoDB, Redis
-- **Microsoft technologies:** Entity Framework, WCF, Power BI, ML.NET
+###
 
-## 🚀 Featured projects
+<p align="left">✨ Building software (and the occasional bug) for 20+ years<br>📚 Always learning about cloud architecture, distributed systems, and DevOps<br>🎯 Goals: Build scalable, reliable systems and help engineering teams thrive<br>🎲 Fun fact: I've worked across web, desktop, and cloud platforms</p>
 
-- [C# projects](https://github.com/gcfernando/csharp_codes)
-- [Machine-learning datasets](https://github.com/gcfernando/datasets)
+###
 
-## 🌱 A little about how I work
+<h2 align="left">I code with</h2>
 
-I care about thoughtful architecture, good engineering practices, and software that solves real problems. I enjoy building systems that are **scalable, dependable, and useful**—and helping teams deliver them well.
+###
 
-## 🤝 Connect
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazure/microsoftazure-original.svg" height="40" alt="Microsoft Azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis logo" />
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/gehanfernando) · [GitHub](https://github.com/gcfernando)
+###
+
+<p align="left"><a href="https://www.linkedin.com/in/gehanfernando">LinkedIn</a> · <a href="https://github.com/gcfernando">GitHub</a></p>
