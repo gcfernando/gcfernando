@@ -1,0 +1,24 @@
+# GitHub Pages documentation site; does not configure application deployment.
+url: "https://gcfernando.github.io"
+baseurl: "/gcfernando"
+title: "Gehan Fernando"
+description: "Public projects and software engineering work by Gehan Fernando, covering C#, .NET, Python, Azure and developer tools."
+lang: "en"
+plugins:
+  - jekyll-sitemap
+exclude:
+  - packages
+  - bin
+  - obj
+  - node_modules
+  - vendor
+  - tests
+  - .claude
+  - .agents
+  - .codex
+defaults:
+  - scope:
+      path: "README.md"
+    values:
+      title: "👋 Hi, I'm Gehan Fernando — Senior Software Engineer (.NET, C#, Python, Azure)"
+      description: "Public projects and software engineering work by Gehan Fernando, covering C#, .NET, Python, Azure and developer tools."
