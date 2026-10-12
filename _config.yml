@@ -22,3 +22,9 @@ defaults:
     values:
       title: "👋 Hi, I'm Gehan Fernando — Senior Software Engineer (.NET, C#, Python, Azure)"
       description: "Public projects and software engineering work by Gehan Fernando, covering C#, .NET, Python, Azure and developer tools."
+
+# Public documentation navigation and presentation.
+repository: gcfernando/gcfernando
+theme: jekyll-theme-primer
+projects_hub: https://gcfernando.github.io/gcfernando/projects/
+project_category: "Project collection"

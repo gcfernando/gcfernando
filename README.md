@@ -71,3 +71,9 @@ I care about thoughtful architecture, strong engineering practices, and software
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gehanfernando)
 - 🐙 [GitHub](https://github.com/gcfernando)
+
+---
+
+## Documentation links
+
+[Read all Gehan Fernando guides online](https://gcfernando.github.io/gcfernando/documentation/) · [Project overview](https://gcfernando.github.io/gcfernando/) · [All developer projects](https://gcfernando.github.io/gcfernando/projects/)
