@@ -20,7 +20,7 @@ defaults:
   - scope:
       path: "README.md"
     values:
-      title: "👋 Hi, I'm Gehan Fernando — Senior Software Engineer (.NET, C#, Python, Azure)"
+      title: "Gehan Fernando — .NET, C#, Python and Azure Software Engineer"
       description: "Public projects and software engineering work by Gehan Fernando, covering C#, .NET, Python, Azure and developer tools."
 
 # Public documentation navigation and presentation.

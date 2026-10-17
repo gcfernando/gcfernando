@@ -1,5 +1,14 @@
 [
   {
+    "title": "Aster — Offline Windows Calculator",
+    "description": "C# and .NET 10 Windows calculator with standard, scientific, programmer, unit-conversion and date modes.",
+    "category": "Windows desktop",
+    "url": "https://gcfernando.github.io/aster/",
+    "guides": "https://gcfernando.github.io/aster/documentation/",
+    "source": "https://github.com/gcfernando/aster",
+    "sitemap": "https://gcfernando.github.io/aster/sitemap.xml"
+  },
+  {
     "title": "Audio8D",
     "description": "FFmpeg-based 8D audio converter for Windows and Linux, with desktop and command-line interfaces.",
     "category": "Audio & desktop",

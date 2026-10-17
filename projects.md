@@ -20,13 +20,12 @@ Explore the public project collection: .NET libraries, Windows desktop applicati
 
 ## Projects with repository documentation
 
-- [Aster — offline Windows calculator](https://github.com/gcfernando/aster): C# 14 and .NET 10 Windows Forms calculator with arithmetic, scientific, programmer, unit-conversion and date modes. Its README covers setup, numeric behavior, testing and local data.
 - [Pipewarden — local and CI quality gates](https://github.com/gcfernando/pipewarden): Python CLI for supported language toolchains, secret scanning and machine-readable reports. Its repository includes configuration, contribution and release guides.
 
 ## Choose a starting point
 
 - **Learn programming:** begin with the Python, C#/.NET, VB.NET or knowledge-base guides.
-- **Build desktop applications:** explore Glass.Message, Spectrum and Audio8D.
+- **Build desktop applications:** explore Glass.Message, Spectrum, Audio8D and the [Aster Windows calculator guides](https://gcfernando.github.io/aster/documentation/).
 - **Improve logging:** read the Nilog documentation and examples.
 - **Practice with data:** browse the CSV dataset collection.
 - **Learn hardware basics:** start with the Pico 2 W LED example.

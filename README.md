@@ -45,7 +45,7 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 | Project | What it is | Tech |
 |---|---|---|
 | [**Audio8D**](https://github.com/gcfernando/audio-8d) | Desktop and command-line 8D audio converter that turns songs into moving 3D headphone audio, with previews, A/B comparison, and MP3/FLAC/WAV/M4A/Opus output. | Python, FFmpeg, Windows & Linux |
-| [**Spectrum**](https://github.com/gcfernando/spectrum-analyzer) | Real-time Windows audio spectrum analyzer and visualizer: WASAPI loopback capture, FFT, 83 logarithmic bands, 19 visualization modes, and 13 colour themes. | C#, .NET Framework 4.8, WinForms |
+| [**Spectrum**](https://github.com/gcfernando/spectrum-analyzer) | Real-time Windows audio spectrum analyzer and visualizer: WASAPI loopback capture, FFT, 83 logarithmic bands, 21 visualization modes, and 13 colour themes. | C#, .NET Framework 4.8, WinForms |
 | [**Aster**](https://github.com/gcfernando/aster) | Offline Windows calculator with standard, scientific, programmer, unit-conversion and date modes, plus searchable history. | C# 14, .NET 10, WinForms |
 
 ### 📚 Code examples, tools, and learning resources
@@ -62,7 +62,7 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 
 ## 🧭 Technical areas in my public code
 
-- **High-performance .NET:** allocation-free logging APIs, benchmarks, Roslyn analyzers, Native AOT compatibility
+- **High-performance .NET:** typed logging APIs with reduced call-site allocations, benchmarks, Roslyn analyzers, Native AOT compatibility
 - **Windows desktop development:** Windows Forms, high-DPI layouts, custom-drawn controls, themed dialogs
 - **Audio and DSP:** FFT spectrum analysis, WASAPI loopback capture, FFmpeg audio processing, 8D/spatial audio
 - **Cloud and backend patterns:** Azure Functions isolated worker, Durable Functions, middleware, dependency injection, CQRS
