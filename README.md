@@ -6,17 +6,25 @@ Senior Software Engineer | Backend & Microservices | .NET, C#, Python | Azure
 
 📍 Sweden
 
-I build backend systems, .NET libraries, Windows desktop tools, and Python utilities. This profile collects my public work: high-performance C# logging, a modern WinForms `MessageBox` replacement, an FFmpeg-based 8D audio converter, a WASAPI audio spectrum analyzer, and dozens of hands-on C#, Python, and developer-tooling examples.
+I build backend systems, .NET libraries, Windows desktop tools, and Python utilities. This profile collects libraries, desktop applications, code examples and learning resources. Use the featured-project links to find the source and the setup instructions for each repository.
 
 ---
 
-## 🙋 About me
+<!-- Preserve links to earlier section headings. -->
+<a id="-about-me"></a>
+<a id="️-what-i-work-with"></a>
+<a id="-skills"></a>
+<a id="-technical-areas-in-my-public-code"></a>
+<a id="-connect-with-me"></a>
+<a id="documentation-links"></a>
+
+## 🔎 Overview
 
 I’m a software engineer with **20+ years of experience** designing and building scalable, high-performance software. I enjoy turning complex business challenges into reliable, secure, and maintainable solutions.
 
 My work spans **backend engineering, cloud architecture, distributed systems, and microservices**. I’ve led projects from requirements and system design through development, deployment, and optimization, and I enjoy supporting teams through technical leadership and mentorship.
 
-## 🛠️ What I work with
+### Tools and technologies
 
 - **Languages:** C#, Python
 - **Frameworks:** .NET, ASP.NET, Flask
@@ -25,11 +33,11 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 - **Data:** SQL Server, MongoDB, Redis
 - **Microsoft technologies:** Entity Framework, WCF, Power BI, ML.NET
 
-## 💻 Skills
+### Core skills
 
 **C# · .NET · Python · ASP.NET · Flask · Microsoft Azure · SQL Server · MongoDB · Redis · Microservices · REST APIs · Distributed Systems · DevOps**
 
-## 🚀 Featured projects
+## ✨ Featured projects
 
 ### 📦 .NET libraries (NuGet)
 
@@ -60,7 +68,11 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 | [**Machine-learning datasets**](https://github.com/gcfernando/datasets) | Nine CSV datasets for regression, classification, sentiment analysis, and time-series forecasting practice — including Iris, Titanic, customer spend, fraud detection, product reviews, and sensor data. |
 | [**VB.NET Windows Forms examples**](https://github.com/gcfernando/vb_codes) | Visual Basic Windows Forms experiments, including a live binary clock. |
 
-## 🧭 Technical areas in my public code
+## 🚀 Quick start
+
+Choose a featured project and read its README before installing tools or running examples. For a broad view, browse the [project catalog](projects.md); for documentation sources, use the [documentation index](documentation.md). There is no shared installer for this collection.
+
+## 💡 Explore by use case
 
 - **High-performance .NET:** typed logging APIs with reduced call-site allocations, benchmarks, Roslyn analyzers, Native AOT compatibility
 - **Windows desktop development:** Windows Forms, high-DPI layouts, custom-drawn controls, themed dialogs
@@ -69,17 +81,37 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 - **Data:** SQL Server bulk copy, table-valued parameters, optimistic concurrency, SQLite, machine-learning datasets
 - **Python automation:** networking tools, media processing, OpenCV image effects, scikit-learn and time-series forecasting
 
+## 🏗️ Profile structure
+
+This repository is the GitHub profile and Jekyll project hub. `README.md` is the profile; [`projects.md`](projects.md) renders project cards from `_data/projects.json`; [`documentation.md`](documentation.md) indexes the profile sources. Site configuration lives in `_config.yml` and presentation in `_layouts/` and `assets/`.
+
+## 🧪 Development and testing
+
+For profile edits, check source links, relative paths and the rendered Markdown. When editing project cards, verify the matching entry in `_data/projects.json`. This repository has no application build or test suite; each linked project defines its own prerequisites and checks.
+
+## 🛠️ Troubleshooting and limitations
+
+Project availability, packages and supported platforms can change. Use the linked repository's current documentation as the source of setup and compatibility details. If a published page is unavailable, the GitHub source remains the place to check the intended link.
+
 ## 🌱 What I value
 
 I care about thoughtful architecture, strong engineering practices, and software that solves real problems. My goal is to build systems that are **scalable, dependable, and useful**.
 
-## 🤝 Connect with me
+## 🤝 Contributing and contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gehanfernando)
 - 🐙 [GitHub](https://github.com/gcfernando)
 
 ---
 
-## Documentation links
+To suggest a correction, include the affected project link and the factual change.
+
+## 🔒 Security
+
+Report sensitive findings privately through the affected project's security channel if available. Keep secrets and private data out of public issues and profile contributions.
+
+## 📄 Support and license
+
+Use the affected project's repository for support and license terms. No license file is present in this profile checkout; public availability alone does not specify reuse rights.
 
 [Read all Gehan Fernando guides online](https://gcfernando.github.io/gcfernando/documentation/) · [Project overview](https://gcfernando.github.io/gcfernando/) · [All developer projects](https://gcfernando.github.io/gcfernando/projects/)
