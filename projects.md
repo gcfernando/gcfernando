@@ -26,7 +26,6 @@ Explore the public project collection: .NET libraries, Windows desktop applicati
 
 ## 📚 Projects with repository documentation
 
-- [Pipewarden — local and CI quality gates](https://github.com/gcfernando/pipewarden): Python CLI for supported language toolchains, secret scanning and machine-readable reports. Its repository includes configuration, contribution and release guides.
 
 ## 🚀 Choose a starting point
 
