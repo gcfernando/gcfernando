@@ -26,6 +26,7 @@ Explore the public project collection: .NET libraries, Windows desktop applicati
 
 ## 📚 Projects with repository documentation
 
+The cards are generated from `_data/projects.json` when Jekyll builds the published page. When reading this Markdown source on GitHub or locally, use the [featured repository tables](README.md#-featured-projects) for direct source links. The site presentation files do not build or install the linked applications.
 
 ## 🚀 Choose a starting point
 
@@ -34,7 +35,7 @@ Explore the public project collection: .NET libraries, Windows desktop applicati
 - **Improve logging:** read the Nilog documentation and examples.
 - **Practice with data:** browse the CSV dataset collection.
 - **Learn hardware basics:** start with the Pico 2 W LED example.
-- **Explore developer references:** browse the project lab’s Linux and AI coding add-on guides.
+- **Explore developer references:** browse the project lab’s Linux, AI coding add-on and [AI learning atlas guides](https://github.com/gcfernando/other_codes/blob/main/Files/ai-learning-atlas.md).
 
 ## 🧪 Verify before getting started
 

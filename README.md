@@ -44,7 +44,7 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 | Project | What it is | Tech |
 |---|---|---|
 | [**Nilog**](https://github.com/gcfernando/nilog) | Typed `ILogger` extensions that reduce call-site allocations for structured logging with `Microsoft.Extensions.Logging`, plus Roslyn analyzers. Available on [NuGet](https://www.nuget.org/packages/Nilog). | C#, .NET 8/9/10 |
-| [**Glass.Message**](https://github.com/gcfernando/glass) | Themed Windows Forms dialogs with Mica/Acrylic backdrops, async dialogs, inputs, progress, and toasts. Its `Show` API uses a different icon/buttons argument order from `MessageBox.Show`; see its migration guide. Available on [NuGet](https://www.nuget.org/packages/Glass.Message). | C#, WinForms, .NET Framework 4.8.1 / .NET 8/9/10 |
+| [**Glass.Message**](https://github.com/gcfernando/glass) | Themed Windows Forms dialogs with async dialogs, inputs, progress and toasts. Mica/Acrylic backdrops are requested on supported Windows versions and may fall back. Its `Show` API uses a different icon/buttons argument order from `MessageBox.Show`; see its migration guide. Available on [NuGet](https://www.nuget.org/packages/Glass.Message). | C#, WinForms, .NET Framework 4.8.1 / .NET 8/9/10 |
 
 <a id="-audio-applications"></a>
 
@@ -62,10 +62,11 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 |---|---|
 | [**C# and .NET code examples**](https://github.com/gcfernando/csharp_codes) | Azure Functions (Durable, middleware, keyed DI), MediatR/CQRS, `SemaphoreSlim`, async exception handling, SQL Server bulk/TVP upserts, Spectre.Console, and Python interop. |
 | [**Python projects**](https://github.com/gcfernando/python_codes) | Standalone Python scripts and apps for automation, networking, Wi-Fi scanning, media processing, desktop GUIs, and machine learning. |
-| [**Developer tools and guides**](https://github.com/gcfernando/other_codes) | An AI coding add-ons beginner's guide, an offline Linux command reference, a Windows maintenance PowerShell script, and a Compose service lab with databases, a broker, and Kibana. |
+| [**Developer tools and guides**](https://github.com/gcfernando/other_codes) | An AI learning atlas with suggested role paths and local progress, an AI coding add-ons guide, an offline Linux reference, a Windows maintenance script and a Compose service lab. |
 | [**Developer knowledge base**](https://github.com/gcfernando/document) | Learning paths and cheat sheets for Python OOP, C#/.NET OOP, SQL, Azure, Docker, Podman, Git, and a local AI chat lab. |
 | [**Machine-learning datasets**](https://github.com/gcfernando/datasets) | Nine CSV practice tables for data cleaning, classification, regression, text preprocessing, and timestamp analysis. Provenance and reuse terms are not recorded. |
 | [**VB.NET binary clock**](https://github.com/gcfernando/vb_codes) | A legacy Windows Forms binary clock on .NET Framework 2.0, with a documented zero-rollover repaint defect. |
+| [**MicroPython and Pico examples**](https://github.com/gcfernando/microcontoller) | A Pico 2 W LED example with GPIO setup, blink timing and a MicroPython walkthrough. |
 
 ## 🚀 Quick start
 
