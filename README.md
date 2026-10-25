@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Gehan Fernando — Senior Software Engineer (.NET, C#, Python, Azure)
 
+**Read online:** [Documentation website](https://gcfernando.github.io/gcfernando/) · [All guides](documentation.md)
+
 <a id="senior-software-engineer--backend--microservices--net-c-python--azure"></a>
 
 Senior Software Engineer | Backend & Microservices | .NET, C#, Python | Azure
@@ -43,8 +45,8 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**Nilog**](https://github.com/gcfernando/nilog) | Typed `ILogger` extensions that reduce call-site allocations for structured logging with `Microsoft.Extensions.Logging`, plus Roslyn analyzers. Available on [NuGet](https://www.nuget.org/packages/Nilog). | C#, .NET 8/9/10 |
-| [**Glass.Message**](https://github.com/gcfernando/glass) | Themed Windows Forms dialogs with async dialogs, inputs, progress and toasts. Mica/Acrylic backdrops are requested on supported Windows versions and may fall back. Its `Show` API uses a different icon/buttons argument order from `MessageBox.Show`; see its migration guide. Available on [NuGet](https://www.nuget.org/packages/Glass.Message). | C#, WinForms, .NET Framework 4.8.1 / .NET 8/9/10 |
+| [**Nilog**](https://github.com/gcfernando/nilog-dotnet-logging) | Typed `ILogger` extensions that reduce call-site allocations for structured logging with `Microsoft.Extensions.Logging`, plus Roslyn analyzers. Available on [NuGet](https://www.nuget.org/packages/Nilog). | C#, .NET 8/9/10 |
+| [**Glass.Message**](https://github.com/gcfernando/glass-winforms-messagebox) | Themed Windows Forms dialogs with async dialogs, inputs, progress and toasts. Mica/Acrylic backdrops are requested on supported Windows versions and may fall back. Its `Show` API uses a different icon/buttons argument order from `MessageBox.Show`; see its migration guide. Available on [NuGet](https://www.nuget.org/packages/Glass.Message). | C#, WinForms, .NET Framework 4.8.1 / .NET 8/9/10 |
 
 <a id="-audio-applications"></a>
 
@@ -52,21 +54,21 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 
 | Project | What it is | Tech |
 |---|---|---|
-| [**Audio8D**](https://github.com/gcfernando/audio-8d) | Desktop and command-line 8D audio converter that turns songs into moving 3D headphone audio, with previews, A/B comparison, and MP3/FLAC/WAV/M4A/Opus output. | Python, FFmpeg, Windows & Linux |
-| [**Spectrum**](https://github.com/gcfernando/spectrum-analyzer) | Real-time Windows audio spectrum analyzer and visualizer: WASAPI loopback capture, FFT, 83 logarithmic bands, 21 visualization modes, and 13 colour themes. | C#, .NET Framework 4.8, WinForms |
-| [**Aster**](https://github.com/gcfernando/aster) | Offline Windows calculator with standard, scientific, programmer, unit-conversion and date modes, plus searchable history. | C# 14, .NET 10, WinForms |
+| [**Audio8D**](https://github.com/gcfernando/8d-audio-converter) | Desktop and command-line 8D audio converter that turns songs into moving 3D headphone audio, with previews, A/B comparison, and MP3/FLAC/WAV/M4A/Opus output. | Python, FFmpeg, Windows & Linux |
+| [**Spectrum**](https://github.com/gcfernando/audio-spectrum-analyzer) | Real-time Windows audio spectrum analyzer and visualizer: WASAPI loopback capture, FFT, 83 logarithmic bands, 21 visualization modes, and 13 colour themes. | C#, .NET Framework 4.8, WinForms |
+| [**Aster**](https://github.com/gcfernando/aster-windows-calculator) | Offline Windows calculator with standard, scientific, programmer, unit-conversion and date modes, plus searchable history. | C# 14, .NET 10, WinForms |
 
 ### 📚 Code examples, tools, and learning resources
 
 | Repository | What you will find |
 |---|---|
-| [**C# and .NET code examples**](https://github.com/gcfernando/csharp_codes) | Azure Functions (Durable, middleware, keyed DI), MediatR/CQRS, `SemaphoreSlim`, async exception handling, SQL Server bulk/TVP upserts, Spectre.Console, and Python interop. |
-| [**Python projects**](https://github.com/gcfernando/python_codes) | Standalone Python scripts and apps for automation, networking, Wi-Fi scanning, media processing, desktop GUIs, and machine learning. |
-| [**Developer tools and guides**](https://github.com/gcfernando/other_codes) | An AI learning atlas with suggested role paths and local progress, an AI coding add-ons guide, an offline Linux reference, a Windows maintenance script and a Compose service lab. |
-| [**Developer knowledge base**](https://github.com/gcfernando/document) | Learning paths and cheat sheets for Python OOP, C#/.NET OOP, SQL, Azure, Docker, Podman, Git, and a local AI chat lab. |
-| [**Machine-learning datasets**](https://github.com/gcfernando/datasets) | Nine CSV practice tables for data cleaning, classification, regression, text preprocessing, and timestamp analysis. Provenance and reuse terms are not recorded. |
-| [**VB.NET binary clock**](https://github.com/gcfernando/vb_codes) | A legacy Windows Forms binary clock on .NET Framework 2.0, with a documented zero-rollover repaint defect. |
-| [**MicroPython and Pico examples**](https://github.com/gcfernando/microcontoller) | A Pico 2 W LED example with GPIO setup, blink timing and a MicroPython walkthrough. |
+| [**C# and .NET code examples**](https://github.com/gcfernando/csharp-dotnet-examples) | Azure Functions (Durable, middleware, keyed DI), MediatR/CQRS, `SemaphoreSlim`, async exception handling, SQL Server bulk/TVP upserts, Spectre.Console, and Python interop. |
+| [**Python projects**](https://github.com/gcfernando/python-projects-and-examples) | Standalone Python scripts and apps for automation, networking, Wi-Fi scanning, media processing, desktop GUIs, and machine learning. |
+| [**Developer tools and guides**](https://github.com/gcfernando/developer-tools-and-guides) | An AI learning atlas with suggested role paths and local progress, an AI coding add-ons guide, an offline Linux reference, a Windows maintenance script and a Compose service lab. |
+| [**Developer knowledge base**](https://github.com/gcfernando/developer-guides-and-cheatsheets) | Learning paths and cheat sheets for Python OOP, C#/.NET OOP, SQL, Azure, Docker, Podman, Git, and a local AI chat lab. |
+| [**Machine-learning datasets**](https://github.com/gcfernando/machine-learning-practice-datasets) | Nine CSV practice tables for data cleaning, classification, regression, text preprocessing, and timestamp analysis. Provenance and reuse terms are not recorded. |
+| [**VB.NET binary clock**](https://github.com/gcfernando/vb-dotnet-examples) | A legacy Windows Forms binary clock on .NET Framework 2.0, with a documented zero-rollover repaint defect. |
+| [**MicroPython and Pico examples**](https://github.com/gcfernando/raspberry-pi-pico-micropython) | A Pico 2 W LED example with GPIO setup, blink timing and a MicroPython walkthrough. |
 
 ## 🚀 Quick start
 
@@ -114,4 +116,4 @@ Report sensitive findings privately through the affected project's security chan
 
 Use the affected project's repository for support and license terms. No license file is present in this profile checkout; public availability alone does not specify reuse rights.
 
-[Read all Gehan Fernando guides online](https://gcfernando.github.io/gcfernando/documentation/) · [Project overview](https://gcfernando.github.io/gcfernando/) · [All developer projects](https://gcfernando.github.io/gcfernando/projects/)
+[Read all Gehan Fernando guides online](documentation.md) · [Project overview](https://gcfernando.github.io/gcfernando/) · [All developer projects](projects.md)

@@ -3,37 +3,37 @@
     "title": "Aster — Offline Windows Calculator",
     "description": "C# and .NET 10 Windows calculator with standard, scientific, programmer, unit-conversion and date modes.",
     "category": "Windows desktop",
-    "url": "https://gcfernando.github.io/aster/",
-    "guides": "https://gcfernando.github.io/aster/documentation/",
-    "source": "https://github.com/gcfernando/aster",
-    "sitemap": "https://gcfernando.github.io/aster/sitemap.xml"
+    "url": "https://gcfernando.github.io/aster-windows-calculator/",
+    "guides": "https://gcfernando.github.io/aster-windows-calculator/documentation/",
+    "source": "https://github.com/gcfernando/aster-windows-calculator",
+    "sitemap": "https://gcfernando.github.io/aster-windows-calculator/sitemap.xml"
   },
   {
     "title": "Audio8D",
     "description": "FFmpeg-based 8D audio converter for Windows and Linux, with desktop and command-line interfaces.",
     "category": "Audio & desktop",
-    "url": "https://gcfernando.github.io/audio-8d/",
-    "guides": "https://gcfernando.github.io/audio-8d/documentation/",
-    "source": "https://github.com/gcfernando/audio-8d",
-    "sitemap": "https://gcfernando.github.io/audio-8d/sitemap.xml"
+    "url": "https://gcfernando.github.io/8d-audio-converter/",
+    "guides": "https://gcfernando.github.io/8d-audio-converter/documentation/",
+    "source": "https://github.com/gcfernando/8d-audio-converter",
+    "sitemap": "https://gcfernando.github.io/8d-audio-converter/sitemap.xml"
   },
   {
     "title": "C# and .NET Code Examples",
     "description": "Practical C# examples for Azure Functions, async programming, SQL Server, dependency injection and testing.",
     "category": "Learn & reference",
-    "url": "https://gcfernando.github.io/csharp_codes/",
-    "guides": "https://gcfernando.github.io/csharp_codes/documentation/",
-    "source": "https://github.com/gcfernando/csharp_codes",
-    "sitemap": "https://gcfernando.github.io/csharp_codes/sitemap.xml"
+    "url": "https://gcfernando.github.io/csharp-dotnet-examples/",
+    "guides": "https://gcfernando.github.io/csharp-dotnet-examples/documentation/",
+    "source": "https://github.com/gcfernando/csharp-dotnet-examples",
+    "sitemap": "https://gcfernando.github.io/csharp-dotnet-examples/sitemap.xml"
   },
   {
     "title": "Machine Learning Practice Datasets",
     "description": "CSV datasets for learning classification, regression, sentiment analysis, time-series forecasting and data cleaning.",
     "category": "Data & learning",
-    "url": "https://gcfernando.github.io/datasets/",
-    "guides": "https://gcfernando.github.io/datasets/documentation/",
-    "source": "https://github.com/gcfernando/datasets",
-    "sitemap": "https://gcfernando.github.io/datasets/sitemap.xml"
+    "url": "https://gcfernando.github.io/machine-learning-practice-datasets/",
+    "guides": "https://gcfernando.github.io/machine-learning-practice-datasets/documentation/",
+    "source": "https://github.com/gcfernando/machine-learning-practice-datasets",
+    "sitemap": "https://gcfernando.github.io/machine-learning-practice-datasets/sitemap.xml"
   },
   {
     "title": "Gehan Fernando",
@@ -48,72 +48,72 @@
     "title": "Glass.Message",
     "description": "A modern Windows Forms MessageBox library with async dialogs, inputs, progress bars and toast notifications.",
     "category": "Libraries & packages",
-    "url": "https://gcfernando.github.io/glass/",
-    "guides": "https://gcfernando.github.io/glass/documentation/",
-    "source": "https://github.com/gcfernando/glass",
-    "sitemap": "https://gcfernando.github.io/glass/sitemap.xml"
+    "url": "https://gcfernando.github.io/glass-winforms-messagebox/",
+    "guides": "https://gcfernando.github.io/glass-winforms-messagebox/documentation/",
+    "source": "https://github.com/gcfernando/glass-winforms-messagebox",
+    "sitemap": "https://gcfernando.github.io/glass-winforms-messagebox/sitemap.xml"
   },
   {
     "title": "Developer Knowledge Base",
     "description": "Guides for Python, C# and .NET, SQL, Azure, Docker, Podman, Git and local AI applications.",
     "category": "Learn & reference",
-    "url": "https://gcfernando.github.io/document/",
-    "guides": "https://gcfernando.github.io/document/documentation/",
-    "source": "https://github.com/gcfernando/document",
-    "sitemap": "https://gcfernando.github.io/document/sitemap.xml"
+    "url": "https://gcfernando.github.io/developer-guides-and-cheatsheets/",
+    "guides": "https://gcfernando.github.io/developer-guides-and-cheatsheets/documentation/",
+    "source": "https://github.com/gcfernando/developer-guides-and-cheatsheets",
+    "sitemap": "https://gcfernando.github.io/developer-guides-and-cheatsheets/sitemap.xml"
   },
   {
     "title": "MicroPython & Pico Examples",
     "description": "A Raspberry Pi Pico 2 W MicroPython LED example, with source code and an explanation of GPIO and timing.",
     "category": "Hardware & learning",
-    "url": "https://gcfernando.github.io/microcontoller/",
-    "guides": "https://gcfernando.github.io/microcontoller/documentation/",
-    "source": "https://github.com/gcfernando/microcontoller",
-    "sitemap": "https://gcfernando.github.io/microcontoller/sitemap.xml"
+    "url": "https://gcfernando.github.io/raspberry-pi-pico-micropython/",
+    "guides": "https://gcfernando.github.io/raspberry-pi-pico-micropython/documentation/",
+    "source": "https://github.com/gcfernando/raspberry-pi-pico-micropython",
+    "sitemap": "https://gcfernando.github.io/raspberry-pi-pico-micropython/sitemap.xml"
   },
   {
     "title": "Nilog",
     "description": "Typed ILogger extensions and Roslyn analyzers for structured logging in .NET.",
     "category": "Libraries & packages",
-    "url": "https://gcfernando.github.io/nilog/",
-    "guides": "https://gcfernando.github.io/nilog/documentation/",
-    "source": "https://github.com/gcfernando/nilog",
-    "sitemap": "https://gcfernando.github.io/nilog/sitemap.xml"
+    "url": "https://gcfernando.github.io/nilog-dotnet-logging/",
+    "guides": "https://gcfernando.github.io/nilog-dotnet-logging/documentation/",
+    "source": "https://github.com/gcfernando/nilog-dotnet-logging",
+    "sitemap": "https://gcfernando.github.io/nilog-dotnet-logging/sitemap.xml"
   },
   {
     "title": "Gehan's Project Lab",
     "description": "AI coding add-ons, a Linux command reference, Windows maintenance and practical developer guides.",
     "category": "Tools & reference",
-    "url": "https://gcfernando.github.io/other_codes/",
-    "guides": "https://gcfernando.github.io/other_codes/documentation/",
-    "source": "https://github.com/gcfernando/other_codes",
-    "sitemap": "https://gcfernando.github.io/other_codes/sitemap.xml"
+    "url": "https://gcfernando.github.io/developer-tools-and-guides/",
+    "guides": "https://gcfernando.github.io/developer-tools-and-guides/documentation/",
+    "source": "https://github.com/gcfernando/developer-tools-and-guides",
+    "sitemap": "https://gcfernando.github.io/developer-tools-and-guides/sitemap.xml"
   },
   {
     "title": "Python Projects and Code Examples",
     "description": "Python utilities and examples for automation, networking, desktop interfaces, media and machine learning.",
     "category": "Learn & utilities",
-    "url": "https://gcfernando.github.io/python_codes/",
-    "guides": "https://gcfernando.github.io/python_codes/documentation/",
-    "source": "https://github.com/gcfernando/python_codes",
-    "sitemap": "https://gcfernando.github.io/python_codes/sitemap.xml"
+    "url": "https://gcfernando.github.io/python-projects-and-examples/",
+    "guides": "https://gcfernando.github.io/python-projects-and-examples/documentation/",
+    "source": "https://github.com/gcfernando/python-projects-and-examples",
+    "sitemap": "https://gcfernando.github.io/python-projects-and-examples/sitemap.xml"
   },
   {
     "title": "Spectrum Audio Analyzer",
     "description": "A Windows WASAPI audio spectrum analyzer and visualizer built with C# and Windows Forms.",
     "category": "Audio & desktop",
-    "url": "https://gcfernando.github.io/spectrum-analyzer/",
-    "guides": "https://gcfernando.github.io/spectrum-analyzer/documentation/",
-    "source": "https://github.com/gcfernando/spectrum-analyzer",
-    "sitemap": "https://gcfernando.github.io/spectrum-analyzer/sitemap.xml"
+    "url": "https://gcfernando.github.io/audio-spectrum-analyzer/",
+    "guides": "https://gcfernando.github.io/audio-spectrum-analyzer/documentation/",
+    "source": "https://github.com/gcfernando/audio-spectrum-analyzer",
+    "sitemap": "https://gcfernando.github.io/audio-spectrum-analyzer/sitemap.xml"
   },
   {
     "title": "VB.NET Windows Forms Examples",
     "description": "Visual Basic desktop examples, including a binary clock built with Windows Forms.",
     "category": "Learn & desktop",
-    "url": "https://gcfernando.github.io/vb_codes/",
-    "guides": "https://gcfernando.github.io/vb_codes/documentation/",
-    "source": "https://github.com/gcfernando/vb_codes",
-    "sitemap": "https://gcfernando.github.io/vb_codes/sitemap.xml"
+    "url": "https://gcfernando.github.io/vb-dotnet-examples/",
+    "guides": "https://gcfernando.github.io/vb-dotnet-examples/documentation/",
+    "source": "https://github.com/gcfernando/vb-dotnet-examples",
+    "sitemap": "https://gcfernando.github.io/vb-dotnet-examples/sitemap.xml"
   }
 ]
