@@ -20,8 +20,8 @@ defaults:
   - scope:
       path: "README.md"
     values:
-      title: "Gehan Fernando — .NET, C#, Python and Azure Software Engineer"
-      description: "Public projects and software engineering work by Gehan Fernando, covering C#, .NET, Python, Azure and developer tools."
+      title: "Gehan Fernando — Software Engineer in .NET and Python"
+      description: "Explore Gehan Fernando's public C#/.NET, Python and Azure projects: logging libraries, Windows applications, code examples and developer learning resources."
 
 # Public documentation navigation and presentation.
 repository: gcfernando/gcfernando

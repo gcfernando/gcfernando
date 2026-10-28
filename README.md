@@ -1,4 +1,16 @@
-# 👋 Hi, I'm Gehan Fernando — Senior Software Engineer (.NET, C#, Python, Azure)
+<a id="-hi-im-gehan-fernando--senior-software-engineer-net-c-python-azure"></a>
+
+<div align="center" markdown="1">
+
+# Gehan Fernando — Software Engineer in .NET and Python
+
+<p align="center"><strong>Backend systems, useful libraries and practical developer tools.</strong></p>
+
+[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Read the documentation](https://img.shields.io/badge/Read-the_documentation-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/)
+
+</div>
+
+> **Start here:** [Explore projects](#guide-featured-projects) · [Find a use case](#guide-explore-by-use-case) · [Start with a repository](#guide-quick-start) · [Connect](#guide-contributing-and-contact)
 
 **Read online:** [Documentation website](https://gcfernando.github.io/gcfernando/) · [All guides](documentation.md)
 
@@ -39,6 +51,8 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 
 **C# · .NET · Python · ASP.NET · Flask · Microsoft Azure · SQL Server · MongoDB · Redis · Microservices · REST APIs · Distributed Systems · DevOps**
 
+<a id="guide-featured-projects"></a>
+
 ## ✨ Featured projects
 
 ### 📦 .NET libraries (NuGet)
@@ -70,9 +84,13 @@ My work spans **backend engineering, cloud architecture, distributed systems, an
 | [**VB.NET binary clock**](https://github.com/gcfernando/vb-dotnet-examples) | A legacy Windows Forms binary clock on .NET Framework 2.0, with a documented zero-rollover repaint defect. |
 | [**MicroPython and Pico examples**](https://github.com/gcfernando/raspberry-pi-pico-micropython) | A Pico 2 W LED example with GPIO setup, blink timing and a MicroPython walkthrough. |
 
+<a id="guide-quick-start"></a>
+
 ## 🚀 Quick start
 
 Choose a featured project and read its README before installing tools or running examples. For a broad view, browse the [project catalog](projects.md); for documentation sources, use the [documentation index](documentation.md). There is no shared installer for this collection.
+
+<a id="guide-explore-by-use-case"></a>
 
 ## 💡 Explore by use case
 
@@ -98,6 +116,8 @@ Project availability, packages and supported platforms can change. Use the linke
 ## 🌱 What I value
 
 I care about thoughtful architecture, strong engineering practices, and software that solves real problems. My goal is to build systems that are **scalable, dependable, and useful**.
+
+<a id="guide-contributing-and-contact"></a>
 
 ## 🤝 Contributing and contact
 
