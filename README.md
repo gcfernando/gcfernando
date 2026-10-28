@@ -117,3 +117,7 @@ Report sensitive findings privately through the affected project's security chan
 Use the affected project's repository for support and license terms. No license file is present in this profile checkout; public availability alone does not specify reuse rights.
 
 [Read all Gehan Fernando guides online](documentation.md) · [Project overview](https://gcfernando.github.io/gcfernando/) · [All developer projects](projects.md)
+
+## Repository maintenance
+
+[Contributing](https://github.com/gcfernando/gcfernando/blob/main/CONTRIBUTING.md) · [Security policy](https://github.com/gcfernando/gcfernando/blob/main/SECURITY.md) · [Repository standards](https://github.com/gcfernando/gcfernando/blob/main/REPOSITORY_STANDARDS.md)
