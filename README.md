@@ -6,9 +6,7 @@
 
 <p align="center"><strong>Backend systems, useful libraries and practical developer tools.</strong></p>
 
-[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Read the documentation](https://img.shields.io/badge/Read-the_documentation-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/)
-
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/gcfernando/badge.svg)](https://hub.xerj.org/contributors/gcfernando)
+[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Read the documentation](https://img.shields.io/badge/Read-the_documentation-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/) [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/gcfernando/badge.svg)](https://hub.xerj.org/contributors/gcfernando)
 
 </div>
 
