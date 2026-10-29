@@ -8,6 +8,8 @@
 
 [![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Read the documentation](https://img.shields.io/badge/Read-the_documentation-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/gcfernando/badge.svg)](https://hub.xerj.org/contributors/gcfernando)
+
 </div>
 
 > **Start here:** [Explore projects](#guide-featured-projects) · [Find a use case](#guide-explore-by-use-case) · [Start with a repository](#guide-quick-start) · [Connect](#guide-contributing-and-contact)
