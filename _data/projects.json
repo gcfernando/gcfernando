@@ -54,13 +54,13 @@
     "sitemap": "https://gcfernando.github.io/glass-winforms-messagebox/sitemap.xml"
   },
   {
-    "title": "Developer Knowledge Base",
-    "description": "Guides for Python, C# and .NET, SQL, Azure, Docker, Podman, Git and local AI applications.",
-    "category": "Learn & reference",
-    "url": "https://gcfernando.github.io/developer-guides-and-cheatsheets/",
-    "guides": "https://gcfernando.github.io/developer-guides-and-cheatsheets/documentation/",
-    "source": "https://github.com/gcfernando/developer-guides-and-cheatsheets",
-    "sitemap": "https://gcfernando.github.io/developer-guides-and-cheatsheets/sitemap.xml"
+    "title": "Developer Guides and Tools",
+    "description": "Python, C#/.NET, SQL and Azure guides; Git and container cheat sheets; Linux and AI browser references; PowerShell utilities and local development examples.",
+    "category": "Learn & tools",
+    "url": "https://gcfernando.github.io/developer-guides-and-tools/",
+    "guides": "https://gcfernando.github.io/developer-guides-and-tools/documentation/",
+    "source": "https://github.com/gcfernando/developer-guides-and-tools",
+    "sitemap": "https://gcfernando.github.io/developer-guides-and-tools/sitemap.xml"
   },
   {
     "title": "MicroPython & Pico Examples",
@@ -81,15 +81,6 @@
     "sitemap": "https://gcfernando.github.io/nilog-dotnet-logging/sitemap.xml"
   },
   {
-    "title": "Gehan's Project Lab",
-    "description": "AI coding add-ons, a Linux command reference, Windows maintenance and practical developer guides.",
-    "category": "Tools & reference",
-    "url": "https://gcfernando.github.io/developer-tools-and-guides/",
-    "guides": "https://gcfernando.github.io/developer-tools-and-guides/documentation/",
-    "source": "https://github.com/gcfernando/developer-tools-and-guides",
-    "sitemap": "https://gcfernando.github.io/developer-tools-and-guides/sitemap.xml"
-  },
-  {
     "title": "Python Projects and Code Examples",
     "description": "Python utilities and examples for automation, networking, desktop interfaces, media and machine learning.",
     "category": "Learn & utilities",
@@ -97,15 +88,6 @@
     "guides": "https://gcfernando.github.io/python-projects-and-examples/documentation/",
     "source": "https://github.com/gcfernando/python-projects-and-examples",
     "sitemap": "https://gcfernando.github.io/python-projects-and-examples/sitemap.xml"
-  },
-  {
-    "title": "Spectrum Audio Analyzer",
-    "description": "A Windows WASAPI audio spectrum analyzer and visualizer built with C# and Windows Forms.",
-    "category": "Audio & desktop",
-    "url": "https://gcfernando.github.io/audio-spectrum-analyzer/",
-    "guides": "https://gcfernando.github.io/audio-spectrum-analyzer/documentation/",
-    "source": "https://github.com/gcfernando/audio-spectrum-analyzer",
-    "sitemap": "https://gcfernando.github.io/audio-spectrum-analyzer/sitemap.xml"
   },
   {
     "title": "VB.NET Windows Forms Examples",

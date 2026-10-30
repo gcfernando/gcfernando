@@ -18,7 +18,7 @@ Choose a project below and follow its README for downloads, prerequisites and us
 | [Glass.Message](https://github.com/gcfernando/glass-winforms-messagebox) | Windows Forms dialogs, inputs, progress displays and toast notifications. |
 | [Aster](https://github.com/gcfernando/aster-windows-calculator) | An offline Windows calculator with standard, scientific, programmer, conversion and date modes. |
 | [Audio8D](https://github.com/gcfernando/8d-audio-converter) | A Python desktop application and CLI for headphone audio conversion with FFmpeg. |
-| [Spectrum](https://github.com/gcfernando/audio-spectrum-analyzer) | A Windows audio spectrum analyzer and visualizer. |
+| Spectrum | A Windows audio spectrum analyzer and visualizer; its public repository and documentation are currently unavailable. |
 
 ## Examples and learning resources
 

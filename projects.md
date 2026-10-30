@@ -30,12 +30,14 @@ The cards are generated from `_data/projects.json` when Jekyll builds the publis
 
 ## 🚀 Choose a starting point
 
-- **Learn programming:** begin with the Python, C#/.NET, VB.NET or knowledge-base guides.
-- **Build desktop applications:** explore Glass.Message, Spectrum, Audio8D and the [Aster Windows calculator guides](https://gcfernando.github.io/aster-windows-calculator/documentation/).
+- **Learn programming:** begin with the Python, C#/.NET, VB.NET or developer guides.
+- **Build desktop applications:** explore Glass.Message, Audio8D and the [Aster Windows calculator guides](https://gcfernando.github.io/aster-windows-calculator/documentation/).
 - **Improve logging:** read the Nilog documentation and examples.
 - **Practice with data:** browse the CSV dataset collection.
 - **Learn hardware basics:** start with the Pico 2 W LED example.
-- **Explore developer references:** browse the project lab’s Linux, AI coding add-on and [AI learning atlas guides](https://github.com/gcfernando/developer-tools-and-guides/blob/main/Files/ai-learning-atlas.md).
+- **Explore developer references:** browse the [developer guides and tools](https://gcfernando.github.io/developer-guides-and-tools/) for Linux references, AI coding add-ons and the [AI Learning Atlas](https://gcfernando.github.io/developer-guides-and-tools/apps/ai-learning-atlas/index.html).
+
+Spectrum is a Windows WASAPI audio spectrum analyzer and visualizer built with C# and Windows Forms. Its public repository and documentation are currently unavailable, so it has no active project card here.
 
 ## 🧪 Verify before getting started
 
