@@ -1,143 +1,85 @@
-<a id="-hi-im-gehan-fernando--senior-software-engineer-net-c-python-azure"></a>
+# Gehan Fernando
 
-<div align="center" markdown="1">
+Software engineer working with C#, .NET, Python and Azure, based in Sweden.
 
-# Gehan Fernando — Software Engineer in .NET and Python
+[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Project website](https://img.shields.io/badge/Project-website-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/)
 
-<p align="center"><strong>Backend systems, useful libraries and practical developer tools.</strong></p>
+I build backend systems, .NET libraries, Windows desktop applications and Python utilities. My work includes requirements, system design, development, deployment and technical leadership, drawing on more than 20 years of software engineering experience.
 
-[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Read the documentation](https://img.shields.io/badge/Read-the_documentation-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/) [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/gcfernando/badge.svg)](https://hub.xerj.org/contributors/gcfernando)
+## Start here
 
-</div>
+Choose a project below and follow its README for downloads, prerequisites and usage. For more projects, browse the [project catalog](projects.md). Each repository defines its own installation and license terms.
 
-> **Start here:** [Explore projects](#guide-featured-projects) · [Find a use case](#guide-explore-by-use-case) · [Start with a repository](#guide-quick-start) · [Connect](#guide-contributing-and-contact)
+## Libraries and desktop applications
 
-**Read online:** [Documentation website](https://gcfernando.github.io/gcfernando/) · [All guides](documentation.md)
+| Project | What you can explore |
+| --- | --- |
+| [Nilog](https://github.com/gcfernando/nilog-dotnet-logging) | Typed `ILogger` extensions, Roslyn analyzers and benchmarks for structured .NET logging. |
+| [Glass.Message](https://github.com/gcfernando/glass-winforms-messagebox) | Windows Forms dialogs, inputs, progress displays and toast notifications. |
+| [Aster](https://github.com/gcfernando/aster-windows-calculator) | An offline Windows calculator with standard, scientific, programmer, conversion and date modes. |
+| [Audio8D](https://github.com/gcfernando/8d-audio-converter) | A Python desktop application and CLI for headphone audio conversion with FFmpeg. |
+| [Spectrum](https://github.com/gcfernando/audio-spectrum-analyzer) | A Windows audio spectrum analyzer and visualizer. |
 
-<a id="senior-software-engineer--backend--microservices--net-c-python--azure"></a>
-
-Senior Software Engineer | Backend & Microservices | .NET, C#, Python | Azure
-
-📍 Sweden
-
-I build backend systems, .NET libraries, Windows desktop tools, and Python utilities. This profile collects libraries, desktop applications, code examples and learning resources. Use the featured-project links to find the source and the setup instructions for each repository.
-
----
-
-<!-- Preserve links to earlier section headings. -->
-<a id="-about-me"></a>
-<a id="️-what-i-work-with"></a>
-<a id="-skills"></a>
-<a id="-technical-areas-in-my-public-code"></a>
-<a id="-connect-with-me"></a>
-<a id="documentation-links"></a>
-
-## 🔎 Overview
-
-I’m a software engineer with **20+ years of experience** designing and building scalable, high-performance software. I enjoy turning complex business challenges into reliable, secure, and maintainable solutions.
-
-My work spans **backend engineering, cloud architecture, distributed systems, and microservices**. I’ve led projects from requirements and system design through development, deployment, and optimization, and I enjoy supporting teams through technical leadership and mentorship.
-
-### Tools and technologies
-
-- **Languages:** C#, Python
-- **Frameworks:** .NET, ASP.NET, Flask
-- **Cloud & DevOps:** Microsoft Azure, CI/CD, automation
-- **Architecture:** Microservices, distributed systems, REST APIs, scalable system design
-- **Data:** SQL Server, MongoDB, Redis
-- **Microsoft technologies:** Entity Framework, WCF, Power BI, ML.NET
-
-### Core skills
-
-**C# · .NET · Python · ASP.NET · Flask · Microsoft Azure · SQL Server · MongoDB · Redis · Microservices · REST APIs · Distributed Systems · DevOps**
-
-<a id="guide-featured-projects"></a>
-
-## ✨ Featured projects
-
-### 📦 .NET libraries (NuGet)
-
-| Project | What it is | Tech |
-|---|---|---|
-| [**Nilog**](https://github.com/gcfernando/nilog-dotnet-logging) | Typed `ILogger` extensions that reduce call-site allocations for structured logging with `Microsoft.Extensions.Logging`, plus Roslyn analyzers. Available on [NuGet](https://www.nuget.org/packages/Nilog). | C#, .NET 8/9/10 |
-| [**Glass.Message**](https://github.com/gcfernando/glass-winforms-messagebox) | Themed Windows Forms dialogs with async dialogs, inputs, progress and toasts. Mica/Acrylic backdrops are requested on supported Windows versions and may fall back. Its `Show` API uses a different icon/buttons argument order from `MessageBox.Show`; see its migration guide. Available on [NuGet](https://www.nuget.org/packages/Glass.Message). | C#, WinForms, .NET Framework 4.8.1 / .NET 8/9/10 |
-
-<a id="-audio-applications"></a>
-
-### 🎧 Audio and Windows desktop applications
-
-| Project | What it is | Tech |
-|---|---|---|
-| [**Audio8D**](https://github.com/gcfernando/8d-audio-converter) | Desktop and command-line 8D audio converter that turns songs into moving 3D headphone audio, with previews, A/B comparison, and MP3/FLAC/WAV/M4A/Opus output. | Python, FFmpeg, Windows & Linux |
-| [**Spectrum**](https://github.com/gcfernando/audio-spectrum-analyzer) | Real-time Windows audio spectrum analyzer and visualizer: WASAPI loopback capture, FFT, 83 logarithmic bands, 21 visualization modes, and 13 colour themes. | C#, .NET Framework 4.8, WinForms |
-| [**Aster**](https://github.com/gcfernando/aster-windows-calculator) | Offline Windows calculator with standard, scientific, programmer, unit-conversion and date modes, plus searchable history. | C# 14, .NET 10, WinForms |
-
-### 📚 Code examples, tools, and learning resources
+## Examples and learning resources
 
 | Repository | What you will find |
-|---|---|
-| [**C# and .NET code examples**](https://github.com/gcfernando/csharp-dotnet-examples) | Azure Functions (Durable, middleware, keyed DI), MediatR/CQRS, `SemaphoreSlim`, async exception handling, SQL Server bulk/TVP upserts, Spectre.Console, and Python interop. |
-| [**Python projects**](https://github.com/gcfernando/python-projects-and-examples) | Standalone Python scripts and apps for automation, networking, Wi-Fi scanning, media processing, desktop GUIs, and machine learning. |
-| [**Developer tools and guides**](https://github.com/gcfernando/developer-tools-and-guides) | An AI learning atlas with suggested role paths and local progress, an AI coding add-ons guide, an offline Linux reference, a Windows maintenance script and a Compose service lab. |
-| [**Developer knowledge base**](https://github.com/gcfernando/developer-guides-and-cheatsheets) | Learning paths and cheat sheets for Python OOP, C#/.NET OOP, SQL, Azure, Docker, Podman, Git, and a local AI chat lab. |
-| [**Machine-learning datasets**](https://github.com/gcfernando/machine-learning-practice-datasets) | Nine CSV practice tables for data cleaning, classification, regression, text preprocessing, and timestamp analysis. Provenance and reuse terms are not recorded. |
-| [**VB.NET binary clock**](https://github.com/gcfernando/vb-dotnet-examples) | A legacy Windows Forms binary clock on .NET Framework 2.0, with a documented zero-rollover repaint defect. |
-| [**MicroPython and Pico examples**](https://github.com/gcfernando/raspberry-pi-pico-micropython) | A Pico 2 W LED example with GPIO setup, blink timing and a MicroPython walkthrough. |
+| --- | --- |
+| [C# and .NET examples](https://github.com/gcfernando/csharp-dotnet-examples) | Azure Functions, dependency injection, CQRS, asynchronous code, SQL Server writes and interop examples. |
+| [Python projects and examples](https://github.com/gcfernando/python-projects-and-examples) | Automation, networking, media processing, desktop interfaces and machine-learning exercises. |
+| [Developer guides and tools](https://github.com/gcfernando/developer-guides-and-tools) | Learning paths, Python/C#/.NET/SQL/Azure guides, Linux and container references, browser tools and utilities. |
+| [Machine-learning practice datasets](https://github.com/gcfernando/machine-learning-practice-datasets) | Nine CSV tables for cleaning, classification, regression, text and timestamp exercises; provenance and reuse rights are unrecorded. |
+| [VB.NET binary clock](https://github.com/gcfernando/vb-dotnet-examples) | A legacy Windows Forms clock with framework requirements and a documented zero-rollover repaint issue. |
+| [Pico MicroPython example](https://github.com/gcfernando/raspberry-pi-pico-micropython) | A Pico 2 W onboard-LED program introducing GPIO output and timing. |
 
-<a id="guide-quick-start"></a>
+## Areas I work with
 
-## 🚀 Quick start
+My main languages are C# and Python. I work with .NET, ASP.NET, Flask, Microsoft Azure, SQL Server, MongoDB and Redis, alongside Entity Framework, WCF, Power BI and ML.NET. My interests include backend APIs, distributed systems, microservices, automation, audio processing and practical developer tools.
 
-Choose a featured project and read its README before installing tools or running examples. For a broad view, browse the [project catalog](projects.md); for documentation sources, use the [documentation index](documentation.md). There is no shared installer for this collection.
+I value thoughtful architecture, reliable software, clear engineering practices and supporting teams through technical leadership and mentorship.
 
-<a id="guide-explore-by-use-case"></a>
+## Maintain this profile
 
-## 💡 Explore by use case
+`README.md` is the GitHub profile. [projects.md](projects.md) renders project cards from `_data/projects.json`; [documentation.md](documentation.md) indexes the source material. `_config.yml`, `_layouts/` and `assets/` support the Jekyll website.
 
-- **High-performance .NET:** typed logging APIs with reduced call-site allocations, benchmarks, Roslyn analyzers, Native AOT compatibility
-- **Windows desktop development:** Windows Forms, high-DPI layouts, custom-drawn controls, themed dialogs
-- **Audio and DSP:** FFT spectrum analysis, WASAPI loopback capture, FFmpeg audio processing, 8D/spatial audio
-- **Cloud and backend patterns:** Azure Functions isolated worker, Durable Functions, middleware, dependency injection, CQRS
-- **Data:** SQL Server bulk copy, table-valued parameters, optimistic concurrency, SQLite, machine-learning datasets
-- **Python automation:** networking tools, media processing, OpenCV image effects, scikit-learn and time-series forecasting
+For a correction, check source links and rendered Markdown, and review the matching project-data entry when relevant. This repository has no application build or test suite. The repository metadata check is described in [CONTRIBUTING.md](CONTRIBUTING.md); each linked project has its own technical checks. If a published page is unavailable, consult its GitHub repository for current setup details.
 
-## 🏗️ Profile structure
+## Contact, contributions and reuse
 
-This repository is the GitHub profile and Jekyll project hub. `README.md` is the profile; [`projects.md`](projects.md) renders project cards from `_data/projects.json`; [`documentation.md`](documentation.md) indexes the profile sources. Site configuration lives in `_config.yml` and presentation in `_layouts/` and `assets/`.
+Find me on [LinkedIn](https://www.linkedin.com/in/gehanfernando) or [GitHub](https://github.com/gcfernando). Suggestions should identify the affected project or statement and the factual correction. Follow the [contribution guide](CONTRIBUTING.md) and [repository standards](REPOSITORY_STANDARDS.md).
 
-## 🧪 Development and testing
+Report sensitive findings through the affected project's private security channel; see this profile's [security policy](SECURITY.md). Keep credentials and private data out of public contributions.
 
-For profile edits, check source links, relative paths and the rendered Markdown. When editing project cards, verify the matching entry in `_data/projects.json`. This repository has no application build or test suite; each linked project defines its own prerequisites and checks.
+No license file is present in this profile repository. Public availability alone does not grant reuse rights; linked projects have their own licenses and support channels.
 
-## 🛠️ Troubleshooting and limitations
-
-Project availability, packages and supported platforms can change. Use the linked repository's current documentation as the source of setup and compatibility details. If a published page is unavailable, the GitHub source remains the place to check the intended link.
-
-## 🌱 What I value
-
-I care about thoughtful architecture, strong engineering practices, and software that solves real problems. My goal is to build systems that are **scalable, dependable, and useful**.
-
+<!-- Preserve links to earlier README sections. -->
+<a id="-about-me"></a>
+<a id="-audio-and-windows-desktop-applications"></a>
+<a id="-audio-applications"></a>
+<a id="-code-examples-tools-and-learning-resources"></a>
+<a id="-connect-with-me"></a>
+<a id="-contributing-and-contact"></a>
+<a id="-development-and-testing"></a>
+<a id="-explore-by-use-case"></a>
+<a id="-featured-projects"></a>
+<a id="-hi-im-gehan-fernando--senior-software-engineer-net-c-python-azure"></a>
+<a id="-net-libraries-nuget"></a>
+<a id="-overview"></a>
+<a id="-profile-structure"></a>
+<a id="-quick-start"></a>
+<a id="-security"></a>
+<a id="-skills"></a>
+<a id="-support-and-license"></a>
+<a id="-technical-areas-in-my-public-code"></a>
+<a id="-troubleshooting-and-limitations"></a>
+<a id="-what-i-value"></a>
+<a id="️-what-i-work-with"></a>
+<a id="core-skills"></a>
+<a id="documentation-links"></a>
+<a id="gehan-fernando--software-engineer-in-net-and-python"></a>
 <a id="guide-contributing-and-contact"></a>
-
-## 🤝 Contributing and contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gehanfernando)
-- 🐙 [GitHub](https://github.com/gcfernando)
-
----
-
-To suggest a correction, include the affected project link and the factual change.
-
-## 🔒 Security
-
-Report sensitive findings privately through the affected project's security channel if available. Keep secrets and private data out of public issues and profile contributions.
-
-## 📄 Support and license
-
-Use the affected project's repository for support and license terms. No license file is present in this profile checkout; public availability alone does not specify reuse rights.
-
-[Read all Gehan Fernando guides online](documentation.md) · [Project overview](https://gcfernando.github.io/gcfernando/) · [All developer projects](projects.md)
-
-## Repository maintenance
-
-[Contributing](https://github.com/gcfernando/gcfernando/blob/main/CONTRIBUTING.md) · [Security policy](https://github.com/gcfernando/gcfernando/blob/main/SECURITY.md) · [Repository standards](https://github.com/gcfernando/gcfernando/blob/main/REPOSITORY_STANDARDS.md)
+<a id="guide-explore-by-use-case"></a>
+<a id="guide-featured-projects"></a>
+<a id="guide-quick-start"></a>
+<a id="repository-maintenance"></a>
+<a id="senior-software-engineer--backend--microservices--net-c-python--azure"></a>
+<a id="tools-and-technologies"></a>
