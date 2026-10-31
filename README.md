@@ -2,7 +2,7 @@
 
 Software engineer working with C#, .NET, Python and Azure, based in Sweden.
 
-[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Project website](https://img.shields.io/badge/Project-website-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/)
+[![Repository standards](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml/badge.svg)](https://github.com/gcfernando/gcfernando/actions/workflows/repository-standards.yml) [![Project website](https://img.shields.io/badge/Project-website-2563eb?style=flat-square)](https://gcfernando.github.io/gcfernando/) [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/gcfernando/badge.svg)](https://hub.xerj.org/contributors/gcfernando)
 
 I build backend systems, .NET libraries, Windows desktop applications and Python utilities. My work includes requirements, system design, development, deployment and technical leadership, drawing on more than 20 years of software engineering experience.
 
