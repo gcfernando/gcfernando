@@ -32,6 +32,7 @@ The cards are generated from `_data/projects.json` when Jekyll builds the publis
 
 - **Learn programming:** begin with the Python, C#/.NET, VB.NET or developer guides.
 - **Build desktop applications:** explore Glass.Message, Audio8D and the [Aster Windows calculator guides](https://gcfernando.github.io/aster-windows-calculator/documentation/).
+- **Write Markdown locally:** explore the [Tern editor and guides](https://gcfernando.github.io/tern-markdown-editor/documentation/) for native preview, workspace search and document export.
 - **Improve logging:** read the Nilog documentation and examples.
 - **Practice with data:** browse the CSV dataset collection.
 - **Learn hardware basics:** start with the Pico 2 W LED example.

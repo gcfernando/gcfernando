@@ -90,6 +90,15 @@
     "sitemap": "https://gcfernando.github.io/python-projects-and-examples/sitemap.xml"
   },
   {
+    "title": "Tern — Local-first Markdown Editor",
+    "description": "A Windows Markdown editor built with .NET 10 and Avalonia, with native preview, workspace search, Mermaid and math rendering, and HTML, PDF and text export.",
+    "category": "Windows desktop",
+    "url": "https://gcfernando.github.io/tern-markdown-editor/",
+    "guides": "https://gcfernando.github.io/tern-markdown-editor/documentation/",
+    "source": "https://github.com/gcfernando/tern-markdown-editor",
+    "sitemap": "https://gcfernando.github.io/tern-markdown-editor/sitemap.xml"
+  },
+  {
     "title": "VB.NET Windows Forms Examples",
     "description": "Visual Basic desktop examples, including a binary clock built with Windows Forms.",
     "category": "Learn & desktop",
